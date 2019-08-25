@@ -1,0 +1,7 @@
+# visual studio
+
+\.visual/settings\.json
+.Ds_Store
+
+# cache y python
+
